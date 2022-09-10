@@ -1,0 +1,22 @@
+﻿@model LoginForm.Models.UserModel
+
+@{
+	ViewData["title"] = "Check";
+}
+
+
+<div class="text-center">
+	<h1 class="display-4">Welcome @Model.username</h1>
+	@if (@Model.admin)
+	{
+		<p>You are admin</p>
+	}
+	else
+	{
+		<p>You are user</p>
+	}
+</div>
+
+
+
+
