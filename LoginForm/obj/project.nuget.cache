@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+gbtr+xbyIWOCivPyLx5mNvfaWd68gh4SCnmiYdMVQ8QrDUS7xt7EWn8oss1WDbPRibGwBTyIwKPjXi6Xy/b2w==",
+  "dgSpecHash": "9ctL/H2qumSle9vk3eZFQH5N3JkVBhHRWByYPShXHs2AT4SI00UKpcdtwSvkCiX/xgjtwbcsRzrF8LUC7uzrpA==",
   "success": true,
-  "projectFilePath": "D:\\С#\\LoginForm\\LoginForm.csproj",
+  "projectFilePath": "D:\\Login_Page\\LoginForm\\LoginForm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

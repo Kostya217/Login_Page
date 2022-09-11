@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LoginForm
 build_property.RootNamespace = LoginForm
-build_property.ProjectDir = D:\С#\LoginForm\
+build_property.ProjectDir = D:\Login_Page\LoginForm\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\С#\LoginForm
+build_property.MSBuildProjectDirectory = D:\Login_Page\LoginForm
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/С\#/LoginForm/Views/Home/Check.cshtml]
+[D:/Login_Page/LoginForm/Views/Home/Check.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGVjay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/С\#/LoginForm/Views/Home/Index.cshtml]
+[D:/Login_Page/LoginForm/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/С\#/LoginForm/Views/Home/Privacy.cshtml]
+[D:/Login_Page/LoginForm/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/С\#/LoginForm/Views/Login/Error.cshtml]
+[D:/Login_Page/LoginForm/Views/Login/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/С\#/LoginForm/Views/Login/Login.cshtml]
+[D:/Login_Page/LoginForm/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/С\#/LoginForm/Views/Shared/Error.cshtml]
+[D:/Login_Page/LoginForm/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/С\#/LoginForm/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Login_Page/LoginForm/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/С\#/LoginForm/Views/_ViewImports.cshtml]
+[D:/Login_Page/LoginForm/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/С\#/LoginForm/Views/_ViewStart.cshtml]
+[D:/Login_Page/LoginForm/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/С\#/LoginForm/Views/Shared/_Layout.cshtml]
+[D:/Login_Page/LoginForm/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mrh0fn42zt

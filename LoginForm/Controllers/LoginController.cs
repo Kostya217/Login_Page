@@ -32,7 +32,7 @@ namespace LoginForm.Controllers
             return users;
         }
 
-        public IActionResult Verefi(UserModel user)
+        public IActionResult Verify(UserModel user)
         {
             var users = GetUser();
 
